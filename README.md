@@ -1,4 +1,4 @@
-#ESPNOW P2P Example Code
+# ESPNOW P2P Example Code
 
 Some slightly modified example code to mess around with ESPNOW PSP ESP Communication.
 
